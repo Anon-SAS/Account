@@ -1,0 +1,2 @@
+abra o install.bat
+e dps abra o Account.py

@@ -1,0 +1,3 @@
+abra o cmd e digite pip install python 
+
+python==3.9.5
